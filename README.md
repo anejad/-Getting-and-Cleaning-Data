@@ -5,8 +5,7 @@ The class project for [Getting and Cleaning Data](https://www.coursera.org/cours
 **Here are the steps that must be performed before running the R script:**
 
 1. Download the zip file from [this URL](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
-2. Unzip the file.
-3. Move ALL of the following files to the SAME DIRECTORY as the R script:
+2. Unzip following files:
 	* `features.txt`
 	* `subject_train.txt`
 	* `subject_test.txt`
@@ -14,6 +13,7 @@ The class project for [Getting and Cleaning Data](https://www.coursera.org/cours
 	* `X_test.txt`
 	* `y_train.txt`
 	* `y_test.txt`
+3. Move ALL of the following files to same location
 4. Merge all Data sets to create a unified data set.
 5. Rename data attributes so user can read and understand the data
 
