@@ -1,4 +1,4 @@
-## Class Project for "Getting and Cleaning Data"
+## "Getting and Cleaning Data" Peer Reviewed Assignment
 
 The class project for [Getting and Cleaning Data](https://www.coursera.org/course/getdata) was to read in the ["Human Activity Recognition Using Smartphones" data set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), perform an analysis on the data set, and output a tidy data set.
 
@@ -14,9 +14,9 @@ The class project for [Getting and Cleaning Data](https://www.coursera.org/cours
 	* `X_test.txt`
 	* `y_train.txt`
 	* `y_test.txt`
+4. Merge all Data sets to create a unified data set.
+5. Rename data attributes so user can read and understand the data
 
-**Once those steps are complete, you can run the R script ([run_analysis.R](run_analysis.R)).** Note that it requires the [reshape2 package](http://cran.r-project.org/web/packages/reshape2/index.html), which can be downloaded from CRAN.
-
-**The output of the R script is a tidy data set, [tidydata.csv](tidy.csv).**
+**The output of the R script is a tidy data set, [tidydata.txt](tidydata.txt).**
 
 You can read more about the data and the analysis in the [code book](CodeBook.md).
